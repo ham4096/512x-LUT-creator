@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LUTcreator", "LUTcreator\LUTcreator.pyproj", "{6418E4F6-A107-40F9-BBD2-97F1B2573ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6418E4F6-A107-40F9-BBD2-97F1B2573ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6418E4F6-A107-40F9-BBD2-97F1B2573ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6485A3E8-7778-497F-891B-D153B5399F63}
+	EndGlobalSection
+EndGlobal
